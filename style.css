@@ -1,7 +1,11 @@
 :root {
-   --bs-primary: pink;
+   --myColor: red;
 }
 
 .bg-primary{
-  background-color: var(--bs-primary) !important;
+  background-color: var(--myColor) !important;
+}
+
+.myheader{
+  background-color: var(--myColor) ;
 }
